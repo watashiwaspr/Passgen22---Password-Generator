@@ -1,6 +1,6 @@
 import string
-
 import random
+
 length = int(input("Password length(i prefer at least 16): "))
 
 characters = ""
